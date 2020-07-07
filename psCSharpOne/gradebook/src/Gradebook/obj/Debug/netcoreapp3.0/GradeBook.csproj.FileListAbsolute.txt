@@ -1,0 +1,13 @@
+/Users/Greg/csharp/gradebook/src/Gradebook/bin/Debug/netcoreapp3.0/GradeBook
+/Users/Greg/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
+/Users/Greg/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
+/Users/Greg/csharp/gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
+/Users/Greg/csharp/gradebook/src/Gradebook/bin/Debug/netcoreapp3.0/GradeBook.dll
+/Users/Greg/csharp/gradebook/src/Gradebook/bin/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/Greg/csharp/gradebook/src/Gradebook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
+/Users/Greg/csharp/gradebook/src/Gradebook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
+/Users/Greg/csharp/gradebook/src/Gradebook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+/Users/Greg/csharp/gradebook/src/Gradebook/obj/Debug/netcoreapp3.0/GradeBook.dll
+/Users/Greg/csharp/gradebook/src/Gradebook/obj/Debug/netcoreapp3.0/GradeBook.pdb
+/Users/Greg/csharp/gradebook/src/Gradebook/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Greg/csharp/gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csproj.CopyComplete
